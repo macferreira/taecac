@@ -1,0 +1,41 @@
+data:
+  google:
+    min: -2.15
+    max: 23.19
+    avg: 0.80
+    positive_value: 8321
+    positive_percentage: 83.36
+    neutral_value: 489
+    neutral_percentage: 4.90
+    negative_value: 1172
+    negative_percentage: 11.74
+  amazon:
+    min: -2.57
+    max: 11.03
+    avg: 0.69
+    positive_value: 7737
+    positive_percentage: 77.46
+    neutral_value: 525
+    neutral_percentage: 5.26
+    negative_value: 1726
+    negative_percentage: 17.28
+  apple:
+    min: -3.92
+    max: 18.77
+    avg: 0.83
+    positive_value: 8146
+    positive_percentage: 81.61
+    neutral_value: 552
+    neutral_percentage: 5.53
+    negative_value: 1284
+    negative_percentage: 12.86
+  facebook:
+    min: -2.96
+    max: 14.74
+    avg: 0.88
+    positive_value: 3998
+    positive_percentage: 84.10
+    neutral_value: 229
+    neutral_percentage: 4.82
+    negative_value: 527
+    negative_percentage: 11.08
